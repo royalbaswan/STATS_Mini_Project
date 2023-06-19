@@ -1,5 +1,5 @@
 # STATS_Mini_Project
-                                           Statistical Analysis on Fifa & Mobile Network Dataset
+                                       Statistical Analysis on Fifa & Mobile Network Dataset
 
 The first and second problem aims at finding the relevant variables that contribute to explaining the variation in the target variable and doing the required graphical analysis to confirm the same.
 
@@ -34,4 +34,4 @@ e)	Perform statistical tests to identify the relation between network and networ
 
 **Note:**
 * Perform all the Statistical analysis with 5% (Significance level).
-* Perform the test of normality and test of variance in the appropriate places.
+* Assume all the features are normally distributed and have equal variance.
