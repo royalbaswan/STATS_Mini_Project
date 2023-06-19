@@ -1,5 +1,5 @@
 # STATS_Mini_Project
-                                       Statistical Analysis on Fifa & Mobile Network Dataset
+                                  Statistical Analysis on Fifa & Mobile Network Dataset
 
 The first and second problem aims at finding the relevant variables that contribute to explaining the variation in the target variable and doing the required graphical analysis to confirm the same.
 
